@@ -4,7 +4,7 @@
 
 create a react function with props in webstorm:
 ```
-rce
+rsf
 ```
 
 ## Terminal
