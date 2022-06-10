@@ -3,7 +3,8 @@
 ## Intellij
 
 create a react function with props in webstorm:
-```rce
+```
+rce
 ```
 
 ## Terminal
