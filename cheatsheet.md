@@ -3,7 +3,7 @@
 ## Intellij
 
 create a react function with props in webstorm:
-```
+```js
 rsf
 ```
 
