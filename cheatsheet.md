@@ -7,6 +7,10 @@ create a react function with props in webstorm:
 rsf
 ```
 
+copy a line down
+  ctrl + D
+
+
 ## Terminal
 
 ### ripgrep 
